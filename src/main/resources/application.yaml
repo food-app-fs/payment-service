@@ -23,4 +23,4 @@ spring:
 
 
 stripe:
-  apiKey: "sk_test_51NIcknISk3dUEhPomOXn9gbLUNMJG0ORSHEvDWHiHB0CvQEP7DXOzjTrxV127nAtfav5XyLceYEE14CAQ7rb27SE00avdL8KCs"
+  apiKey: ""
